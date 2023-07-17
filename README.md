@@ -1,6 +1,8 @@
 # qa_python
 
+#### The project was created for studying of Python unit test.
 #### This project contains the one class BookCollector with the list of methods.
+#### There was used the pytest lib for creating and running unit-tests
 
 ### List of methods (main.py):
 * **add_new_book** - add a book in the dictionary
